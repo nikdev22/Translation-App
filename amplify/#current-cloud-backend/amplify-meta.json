@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "whakka-20181120182448-authRole",
+            "UnauthRoleArn": "arn:aws:iam::673030874671:role/whakka-20181120182448-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::673030874671:role/whakka-20181120182448-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "whakka-20181120182448-deployment",
+            "UnauthRoleName": "whakka-20181120182448-unauthRole",
+            "StackName": "whakka-20181120182448",
+            "StackId": "arn:aws:cloudformation:us-east-1:673030874671:stack/whakka-20181120182448/9b415b30-ec84-11e8-8c53-12ff035a5bdc"
+        }
+    }
+}
