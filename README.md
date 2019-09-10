@@ -4,7 +4,7 @@ to extract text from an image and convert that into a desired language.
 Following are the screen shots taken during various operation.
 <hr>
 <strong>1. Home Page</strong>
-<img src="https://devnikimages.s3.amazonaws.com/tmain.jpg" alt="Home Page">
+<img src="https://devnikimages.s3.amazonaws.com/tmain.jpg" alt="Home Page" height="60" width="60">
 <hr>
 <strong>2. Text Translation</strong>
 <img src="https://devnikimages.s3.amazonaws.com/t1.1.jpg" alt="Home Page">
