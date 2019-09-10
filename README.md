@@ -25,9 +25,9 @@ Following are the screen shots taken during various operation.
 <img src="https://devnikimages.s3.amazonaws.com/t3.jpg" alt="Home Page" height="460" width="280">
 <hr>
 <strong>8. Image-Text Conversion, Langauge selection</strong>
-<img src="https://devnikimages.s3.amazonaws.com/t4.jpg" alt="Home Page" height="460" width="280">
+<img src="https://devnikimages.s3.amazonaws.com/t5.jpg" alt="Home Page" height="460" width="280">
 <hr>
 <strong>9. Image-Text Conversion, Final product</strong>
-<img src="https://devnikimages.s3.amazonaws.com/t5.jpg" alt="Home Page" height="460" width="280">
+<img src="https://devnikimages.s3.amazonaws.com/t4.jpg" alt="Home Page" height="460" width="280">
 
 
