@@ -1,5 +1,5 @@
 # Translation-App
-Android application that uses Cloud services from AWS and Google cloud,
+Android application that uses Cloud services from <strong>AWS</strong> and <strong>Google cloud</strong>,
 to extract text from an image and convert that into a desired language.
 Following are the screen shots taken during various operation.
 <hr>
